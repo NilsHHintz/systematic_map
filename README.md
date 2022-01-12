@@ -4,7 +4,7 @@
 #contact: nils.hendrik.hintz@uol.de
 #alterantive contact: nilshehintz@gmail.com
 
-#The files contain Endnote X8 files of literature search and selection process for the systematic map: Ecological impacts of photosynthetic light harvesting in changing #aquatic environments: A systematic   literature map
+#The files contain Endnote X8 files of literature search and selection process for the systematic map: Ecological impacts of photosynthetic light harvesting in changing aquatic environments: A systematic literature map
 
 #References are sorted according to their search/objective. 
 #Hereby groups 1,2,3 include all records from electronical search
